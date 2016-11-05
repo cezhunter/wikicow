@@ -10,4 +10,6 @@ txt = p.summarize(sentences=2)
 p1 = subprocess.Popen(["echo", txt], stdout=subprocess.PIPE)
 p2 = subprocess.Popen(["cowsay"], stdin=p1.stdout, stdout=subprocess.PIPE)
 
+print p.title
 print p2.stdout.read()
+print p.url
