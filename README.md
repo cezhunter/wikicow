@@ -1,6 +1,6 @@
 # wikicow.py
 
-My first steps in to python programming. wikicow is a simple script that utilizes the pymediawiki module to pull a random article from Wikipedia, summarize it in to max 3 sentences and then pipe the summary in to cowsay in the terminal.
+My first steps in to python programming. wikicow is a simple script that utilizes the pymediawiki module to pull a random article from Wikipedia, summarize it in to max 2 sentences and then pipe the summary in to cowsay in the terminal.
 
 ### What you need:
 
