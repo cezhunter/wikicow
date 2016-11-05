@@ -18,7 +18,7 @@ Then just run the script with `python wikicow.py` . Or make it exectuable and ru
 
 ### Output:
 
-![wikicow_output_sample.png](wikicow_output_sample.png)
+![wikicow_sample.png](wikicow_sample.png)
 
 
 
